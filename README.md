@@ -1,9 +1,9 @@
 <img src="assets/terminal.svg" alt="Terminal: whoami, curl nas APIs públicas e ls dos projetos" width="100%">
 
 ```text
-construo software para resolver problemas reais.
-APIs, ferramentas open source e experimentos com IA.
-da ideia ao deploy, gosto de fazer acontecer.
+analista de suporte N2/N3: 4 anos sustentando ERP, PDV e e-commerce.
+investigo incidente até a causa raiz: logs, SQL, PL/SQL e Linux.
+fora do expediente, construo ferramentas open source e APIs.
 ```
 
 ### ~/open-source
