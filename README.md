@@ -26,11 +26,15 @@ agent-orchestra         testar com provedor real e publicar o instalador
 
 **Brasil Dev Kit**: CEP, feriados e CNPJ direto do terminal.
 
-<a href="https://github.com/Efer-Eder/brasil-dev-kit"><img src="https://raw.githubusercontent.com/Efer-Eder/brasil-dev-kit/main/docs/assets/readme/terminal-pt.gif" alt="Brasil Dev Kit no terminal" width="100%"></a>
+<p align="center"><a href="https://github.com/Efer-Eder/brasil-dev-kit"><img src="https://raw.githubusercontent.com/Efer-Eder/brasil-dev-kit/main/docs/assets/readme/terminal-pt.gif" alt="Brasil Dev Kit no terminal" width="75%"></a></p>
 
 **Brasil Tax Playground**: a API chamando o motor oficial da Receita.
 
-<a href="https://github.com/Efer-Eder/brasil-tax-playground"><img src="https://raw.githubusercontent.com/Efer-Eder/brasil-tax-playground/main/docs/assets/api-pt.gif" alt="API do Brasil Tax Playground" width="100%"></a>
+<p align="center"><a href="https://github.com/Efer-Eder/brasil-tax-playground"><img src="https://raw.githubusercontent.com/Efer-Eder/brasil-tax-playground/main/docs/assets/api-pt.gif" alt="API do Brasil Tax Playground" width="75%"></a></p>
+
+**Agent Orchestra**: o app desktop com plano, aprovação, diff e revisão.
+
+<p align="center"><a href="https://github.com/Efer-Eder/agent-orchestra"><img src="https://raw.githubusercontent.com/Efer-Eder/agent-orchestra/main/docs/media/flow.pt.gif" alt="Agent Orchestra: plano, aprovação, diff e revisão" width="75%"></a></p>
 
 ### stack
 
