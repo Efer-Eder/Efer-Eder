@@ -18,7 +18,7 @@ da ideia ao deploy, gosto de fazer acontecer.
 atualizado em 2026-11
 
 brasil-dev-kit          publicar a 0.1.0 no npm
-brasil-tax-playground   levar Simples Nacional e DANFSe para produção
+brasil-tax-playground   paridade na CI e emissor didático de NFS-e
 agent-orchestra         testar com provedor real e publicar o instalador
 ```
 
