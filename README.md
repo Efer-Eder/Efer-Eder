@@ -8,21 +8,32 @@ da ideia ao deploy, gosto de fazer acontecer.
 
 ### ~/open-source
 
-<a href="https://github.com/Efer-Eder/brasil-dev-kit"><img src="assets/ls-brasil-dev-kit.svg" alt="Brasil Dev Kit" width="100%"></a>
-<a href="https://github.com/Efer-Eder/brasil-tax-playground"><img src="assets/ls-brasil-tax-playground.svg" alt="Brasil Tax Playground" width="100%"></a>
-<a href="https://github.com/Efer-Eder/agent-orchestra"><img src="assets/ls-agent-orchestra.svg" alt="Agent Orchestra" width="100%"></a>
+<a href="https://github.com/Efer-Eder/brasil-dev-kit"><img src="assets/ls-brasil-dev-kit.svg" alt="Brasil Dev Kit: 238 testes · 96% de cobertura" width="100%"></a>
+<a href="https://github.com/Efer-Eder/brasil-tax-playground"><img src="assets/ls-brasil-tax-playground.svg" alt="Brasil Tax Playground: 165 testes · paridade 104/104 com o motor" width="100%"></a>
+<a href="https://github.com/Efer-Eder/agent-orchestra"><img src="assets/ls-agent-orchestra.svg" alt="Agent Orchestra: 116 testes TS · 10 testes Rust" width="100%"></a>
+
+### ~/currently-building
+
+```text
+atualizado em 2026-11
+
+brasil-dev-kit          publicar a 0.1.0 no npm
+brasil-tax-playground   levar Simples Nacional e DANFSe para produção
+agent-orchestra         testar com provedor real e publicar o instalador
+```
 
 ### rodando de verdade
 
-<p>
-<a href="https://github.com/Efer-Eder/brasil-dev-kit"><img src="https://raw.githubusercontent.com/Efer-Eder/brasil-dev-kit/main/docs/assets/readme/terminal-pt.gif" alt="Brasil Dev Kit no terminal" width="49%"></a>
-<a href="https://github.com/Efer-Eder/brasil-tax-playground"><img src="https://raw.githubusercontent.com/Efer-Eder/brasil-tax-playground/main/docs/assets/api-pt.gif" alt="API do Brasil Tax Playground" width="49%"></a>
-</p>
+**Brasil Dev Kit**: CEP, feriados e CNPJ direto do terminal.
+
+<a href="https://github.com/Efer-Eder/brasil-dev-kit"><img src="https://raw.githubusercontent.com/Efer-Eder/brasil-dev-kit/main/docs/assets/readme/terminal-pt.gif" alt="Brasil Dev Kit no terminal" width="100%"></a>
+
+**Brasil Tax Playground**: a API chamando o motor oficial da Receita.
+
+<a href="https://github.com/Efer-Eder/brasil-tax-playground"><img src="https://raw.githubusercontent.com/Efer-Eder/brasil-tax-playground/main/docs/assets/api-pt.gif" alt="API do Brasil Tax Playground" width="100%"></a>
 
 ### stack
 
 <img src="assets/stack.svg" alt="TypeScript, Node.js, Python, PostgreSQL, PL/SQL, Next.js, React, FastAPI, Tauri / Rust, Docker, Nginx, Linux" width="100%">
 
-<sub>I build software to solve real problems: APIs, open source tools and AI experiments, from idea to deploy.</sub>
-
-`efer.online` &middot; [site](https://efer.online) &middot; [linkedin](https://www.linkedin.com/in/efer-eder)
+[efer.online](https://efer.online) &middot; [LinkedIn](https://www.linkedin.com/in/efer-eder)
